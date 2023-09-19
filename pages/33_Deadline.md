@@ -10,14 +10,14 @@ class: text-center
 
 #### Kelas A:
 
-26 September 2022, 23:59 WIB
+24 September 2023, 23:59 WIB
 
 </div>
 <div>
 
 #### Kelas B:
 
-27 September 2022, 23:59 WIB
+26 September 2023, 23:59 WIB
 
 </div>
 </div>
