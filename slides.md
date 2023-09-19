@@ -110,6 +110,9 @@ src: ./pages/26_Cover Exercise.md
 src: ./pages/27_Exercise.md
 ---
 ---
+src: ./pages/28_Snippets.md
+---
+---
 src: ./pages/28_Cover Assignment.md
 ---
 ---
